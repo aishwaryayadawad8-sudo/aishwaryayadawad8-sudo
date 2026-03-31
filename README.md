@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Aishwarya Yadawad
 
-<!--
-**aishwaryayadawad8-sudo/aishwaryayadawad8-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineer (AI/ML)  
+🚀 Passionate about Machine Learning & Full Stack Development  
+📍 Karnataka, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### 🔹 Backend & Programming
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
+
+### 🔹 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### 🔹 AI/ML
+![Machine Learning](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+---
+
+## 📊 GitHub Stats
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwaryayadawad8-sudo&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwaryayadawad8-sudo&theme=radical)
+
+---
+
+## 🚀 Projects
+- 🔹 Electricity Load Forecasting using LSTM  
+- 🔹 Smart Grid Fault Detection System  
+- 🔹 AI-based Prediction Models  
+
+---
+
+## ✨ Fun Fact
+⚡ I love solving real-world problems using AI!
