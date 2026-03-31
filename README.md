@@ -5,7 +5,10 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)((https://www.linkedin.com/in/aishwarya-yadawad-582a6a2a6/)/)
-[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+
+
+
+[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail)](mailto:aishwrya@gmail.com)
 
 ---
 
@@ -13,13 +16,13 @@
 
 ### 🔹 Backend & Programming
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
 
 ### 🔹 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
 
 ### 🔹 AI/ML
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
