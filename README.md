@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Aishwarya Yadawad
+# Hi, I am Aishwarya 
 
-💻 Computer Science Engineer (AI/ML)  
-🚀 Passionate about Machine Learning & Full Stack Development  
-📍 Karnataka, India  
-
+💻AI/ML graduate with strong knowledge in machine learning, deep learning, and data analytics. Proficient in Python, SQL, and modern ML frameworks. Passionate about developing intelligent systems and solving real-world problems.
 ---
 
 ## 🌐 Connect With Me
