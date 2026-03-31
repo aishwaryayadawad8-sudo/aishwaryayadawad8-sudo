@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/aishwarya-yadawad-582a6a2a6/)/)
+((https://www.linkedin.com/in/aishwarya-yadawad-582a6a2a6/)/)
 [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
 
 ---
