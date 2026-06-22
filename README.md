@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)((https://www.linkedin.com/in/aishwarya-yadawad-582a6a2a6/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 
 
 
@@ -47,6 +47,3 @@
 - 🔹 AI-based Prediction Models  
 
 ---
-
-## ✨ Fun Fact
-⚡ I love solving real-world problems using AI!
